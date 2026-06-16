@@ -27,13 +27,30 @@
 - **[Space Trivia App](https://github.com/as8675/Space-App-)** — Android app with 500+ Google Play downloads,
   OpenAI-powered real-time space trivia and Firebase authentication · [Play Store](https://play.google.com/store/apps/details?id=com.ayush.spacequiz)
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-**Backend:** Java · Python · Node.js · RESTful APIs · Spring · ABAP (Concepts)  
-**Frontend:** React · TypeScript · JavaScript (ES6) · HTML5 · CSS · Tailwind CSS · D3.js · Angular · Swing  
-**Databases:** PostgreSQL · MySQL · MongoDB · DynamoDB · Neo4j · Database Design Concepts  
-**Cloud, DevOps & Tools:** AWS · Azure · GCP · Docker · Terraform · CI/CD Pipelines · Git · Eclipse  
-**AI-Augmented Engineering:** Cursor · Claude · Gemini · OpenAI API · Codex  
+![Java](https://img.shields.io/badge/-Java-051221?style=flat&logo=java&logoColor=FFA518)
+![Python](https://img.shields.io/badge/-Python-051221?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-051221?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-051221?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-051221?style=flat&logo=node.js)
+![Spring](https://img.shields.io/badge/-Spring-051221?style=flat&logo=spring)
+![React](https://img.shields.io/badge/-React-051221?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-051221?style=flat&logo=angular&logoColor=DD0031)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-051221?style=flat&logo=tailwind-css)
+![D3.js](https://img.shields.io/badge/-D3.js-051221?style=flat&logo=d3.js&logoColor=F9A03C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-051221?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-051221?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-051221?style=flat&logo=mysql)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-051221?style=flat&logo=amazondynamodb&logoColor=4053D6)
+![Neo4j](https://img.shields.io/badge/-Neo4j-051221?style=flat&logo=neo4j&logoColor=008CC1)
+![AWS](https://img.shields.io/badge/-AWS-051221?style=flat&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-051221?style=flat&logo=microsoftazure&logoColor=0078D4)
+![GCP](https://img.shields.io/badge/-GCP-051221?style=flat&logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-051221?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-051221?style=flat&logo=terraform&logoColor=7B42BC)
+![Git](https://img.shields.io/badge/-Git-051221?style=flat&logo=git)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-051221?style=flat&logo=openai) 
 
 ## 📬 Let's connect
 
