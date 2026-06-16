@@ -1,8 +1,8 @@
 # Hi, I'm Ayush Setpal 👋
 
-Full-stack developer with experience building production apps on AWS — from
+Full-stack developer with experience building production apps on AWS - from
 Android apps on the Play Store to dashboards processing millions of records.
-Currently based in Rochester, NY and open to full-time opportunities.
+Currently based in Jersey City, NJ and open to full-time opportunities!
 
 ## 🚀 Projects
 
@@ -23,10 +23,11 @@ Currently based in Rochester, NY and open to full-time opportunities.
 
 ## 🛠 Tech Stack
 
-**Backend:** TypeScript · JavaScript · Java · Python  
-**Frontend:** React · Android 
-**Backend:** Node.js · Express · Flask  
-**Cloud & Data:** AWS (ECS, Amplify, Comprehend, DynamoDB) · Neo4j · Firebase  
+**Backend:** Java · Python · Node.js · RESTful APIs · Spring
+**Frontend:** React · TypeScript · JavaScript (ES6) · HTML5 · CSS · Tailwind CSS · D3.js · Angular · Swing  
+**Databases:** PostgreSQL · MySQL · MongoDB · DynamoDB · Neo4j · Database Design Concepts  
+**Cloud, DevOps & Tools:** AWS · Azure · GCP · Docker · Terraform · CI/CD Pipelines · Git · Eclipse  
+**AI-Augmented Engineering:** Cursor · Claude · Gemini · OpenAI API · Codex 
 
 ## 📬 Let's connect
 
