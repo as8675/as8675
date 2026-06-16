@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Setpal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FF763&width=435&lines=Full-Stack+Developer;AWS+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Java;Building+things+that+scale;Open+to+full-time+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16ADF7&width=435&lines=Full-Stack+Developer;AWS+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Java;Building+things+that+scale;Open+to+full-time+roles)](https://git.io/typing-svg)
 
 ## 🚀 Projects
 
