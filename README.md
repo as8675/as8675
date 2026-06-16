@@ -9,6 +9,7 @@
 ☁️ I build across the stack: React frontends, Node.js/Java backends, and cloud infrastructure on AWS, GCP, and Azure.  
 🤖 I actively use AI-augmented engineering tools like Cursor, Claude, and the OpenAI API to build and ship faster.  
 🌱 Currently exploring distributed systems and cloud-native architecture patterns.  
+⚽ In my free time, I love playing soccer, sketching, and gaming!
 💬 Feel free to reach out for collaborations or just a chat about tech!  
 ✉️ You can email me at ayushsetpal@gmail.com — I'll get back to you soon!  
 📄 Check out my [LinkedIn](https://www.linkedin.com/in/ayushsetpal/) for more details.
@@ -63,7 +64,7 @@
 ![Git](https://img.shields.io/badge/-Git-051221?style=flat&logo=git)
 ![OpenAI](https://img.shields.io/badge/-OpenAI_API-051221?style=flat&logo=openai) 
 
-## 📬 Let's connect
+### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushsetpal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayushsetpal/)
-📧 ayushsetpal@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsetpal/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushsetpal@gmail.com)
