@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16ADF7&width=435&lines=Full-Stack+Developer;AWS+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Java;Building+things+that+scale;Open+to+full-time+roles)](https://git.io/typing-svg)
 ### 👨🏻‍💻 About Me
 
-💡 I'm a full-stack developer with experience shipping production apps on AWS — from geospatial platforms to AI-powered coursework tools.  
+💡 I'm a full-stack developer with experience shipping production apps on AWS - from geospatial platforms to AI-powered apps.  
 🎓 Master of Science in Software Engineering at Rochester Institute of Technology (2023–2026).  
 ☁️ I build across the stack: React frontends, Node.js/Java backends, and cloud infrastructure on AWS, GCP, and Azure.  
 🤖 I actively use AI-augmented engineering tools like Cursor, Claude, and the OpenAI API to build and ship faster.  
 🌱 Currently exploring distributed systems and cloud-native architecture patterns.  
 ⚽ In my free time, I love playing soccer, sketching, and gaming!
 💬 Feel free to reach out for collaborations or just a chat about tech!  
-✉️ You can email me at ayushsetpal@gmail.com — I'll get back to you soon!  
+✉️ You can email me at ayushsetpal@gmail.com and I'll get back to you soon!  
 📄 Check out my [LinkedIn](https://www.linkedin.com/in/ayushsetpal/) for more details.
 
 ### 🚀 Projects
