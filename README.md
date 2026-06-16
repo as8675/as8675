@@ -13,7 +13,7 @@
 ✉️ You can email me at ayushsetpal@gmail.com — I'll get back to you soon!  
 📄 Check out my [LinkedIn](https://www.linkedin.com/in/ayushsetpal/) for more details.
 
-## 🚀 Projects
+### 🚀 Projects
 
 - **[Examora](https://github.com/as8675/examora-2)** — Full-stack AI platform on AWS ECS Fargate with an autonomous
   Playwright microservice to continuously ingest unstructured content into DynamoDB, deployed with a zero-downtime
