@@ -33,7 +33,7 @@
 
 - **[LogiMasters IMS](https://github.com/as8675/LogiMasters)** — Real-time inventory management platform with
   optimized PostgreSQL schemas for high-frequency updates, 98% unit/integration test coverage via GitHub Actions
-  CI, and automated low-inventory alerts via AWS SES. 
+  CI, and automated low-inventory alerts via AWS SES. [Live](https://d1jwu6xzrtqbde.cloudfront.net/)
 
 - **[Space Trivia App](https://github.com/as8675/Space-App-)** — Android app with 500+ Google Play downloads,
   OpenAI-powered real-time space trivia and Firebase authentication · [Play Store](https://play.google.com/store/apps/details?id=com.ayush.spacequiz)
